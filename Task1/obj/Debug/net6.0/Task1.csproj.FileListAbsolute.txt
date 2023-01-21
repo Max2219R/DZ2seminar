@@ -1,0 +1,15 @@
+C:\Users\Ryche\DZ2sem\Task1\bin\Debug\net6.0\Task1.exe
+C:\Users\Ryche\DZ2sem\Task1\bin\Debug\net6.0\Task1.deps.json
+C:\Users\Ryche\DZ2sem\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Users\Ryche\DZ2sem\Task1\bin\Debug\net6.0\Task1.dll
+C:\Users\Ryche\DZ2sem\Task1\bin\Debug\net6.0\Task1.pdb
+C:\Users\Ryche\DZ2sem\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\Ryche\DZ2sem\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryche\DZ2sem\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Ryche\DZ2sem\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\Ryche\DZ2sem\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Ryche\DZ2sem\Task1\obj\Debug\net6.0\Task1.dll
+C:\Users\Ryche\DZ2sem\Task1\obj\Debug\net6.0\refint\Task1.dll
+C:\Users\Ryche\DZ2sem\Task1\obj\Debug\net6.0\Task1.pdb
+C:\Users\Ryche\DZ2sem\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+C:\Users\Ryche\DZ2sem\Task1\obj\Debug\net6.0\ref\Task1.dll
